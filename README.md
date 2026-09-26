@@ -85,7 +85,7 @@ Charts and visual components make it easier to identify spending patterns and un
 ## 🏗️ Project Architecture
 
 The project follows a full-stack architecture with separate frontend, backend, shared libraries, and database components.
-'''text 
+```text
 Expense Tracker
 │
 ├── Frontend
@@ -108,13 +108,13 @@ Expense Tracker
     ├── API Specification
     ├── Zod Schemas
     └── Database Schema
+```
 
-'''
+---
 ---
 
 ## 📂 Project Structure
-'''text
-
+```text
 Expense-Tracker/
 │
 ├── artifacts/
@@ -141,7 +141,8 @@ Expense-Tracker/
 ├── package.json
 ├── pnpm-workspace.yaml
 └── README.md
-'''
+```
+
 ---
 
 ## 💡 Key Concepts Demonstrated
