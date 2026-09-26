@@ -183,10 +183,6 @@ The main goals of this project were to:
 Potential improvements for future versions include:
 
 * User authentication and account management
-* Monthly and yearly spending reports
-* Custom expense categories
-* Budget creation and tracking
-* Recurring expenses
 * Advanced search and filtering
 * Export expenses to CSV/PDF
 * More detailed financial analytics
