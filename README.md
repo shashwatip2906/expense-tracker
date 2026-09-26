@@ -85,7 +85,7 @@ Charts and visual components make it easier to identify spending patterns and un
 ## 🏗️ Project Architecture
 
 The project follows a full-stack architecture with separate frontend, backend, shared libraries, and database components.
-
+'''text 
 Expense Tracker
 │
 ├── Frontend
@@ -108,9 +108,12 @@ Expense Tracker
     ├── API Specification
     ├── Zod Schemas
     └── Database Schema
+
+'''
 ---
 
 ## 📂 Project Structure
+'''text
 
 Expense-Tracker/
 │
@@ -138,6 +141,7 @@ Expense-Tracker/
 ├── package.json
 ├── pnpm-workspace.yaml
 └── README.md
+'''
 ---
 
 ## 💡 Key Concepts Demonstrated
@@ -220,4 +224,4 @@ This repository is publicly available for portfolio and educational viewing.
 
 The source code may not be copied, modified, redistributed, or used in other projects without the author's permission.
 
-© 2026 Your Name. All rights reserved.
+© 2026 Shashwati Pingalkar. All rights reserved.
